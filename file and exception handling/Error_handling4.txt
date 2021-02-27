@@ -1,0 +1,2 @@
+This file has been created by astral_projected for
+testing exception handling in python 
